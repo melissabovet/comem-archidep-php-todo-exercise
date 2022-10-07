@@ -8,7 +8,7 @@
 define('BASE_URL', '/');
 
 // Database connection parameters.
-define('DB_USER', 'todolist');
+define('DB_USER', 'todolistsecond');
 define('DB_PASS', 'chAngeMeN0w!');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
